@@ -26,13 +26,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/KotcAnanacom/gulp-builder.git"
+		"url": "git+https://github.com/kingoffdarknessss/gulp-builder.git"
 	},
 	"bugs": {
-		"url": "https://github.com/KotcAnanacom/gulp-builder/issues"
+		"url": "https://github.com/kingoffdarknessss/gulp-builder/issues"
 	},
-	"homepage": "https://github.com/KotcAnanacom/gulp-builder/#readme",
-	"author": "kotcananacom",
+	"homepage": "https://github.com/kingoffdarknessss/gulp-builder/#readme",
+	"author": "kingoffdarknessss",
 	"license": "MIT",
 	"devDependencies": {
 		"@babel/core": "^7.26.0",
